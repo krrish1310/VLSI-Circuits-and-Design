@@ -1,0 +1,18 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -112 -172 -112 148
+LINE Normal -112 148 112 52
+LINE Normal 112 52 112 -92
+LINE Normal 112 -92 -112 -168
+PIN -112 -32 LEFT 8
+PINATTR PinName inp1
+PINATTR SpiceOrder 1
+PIN -112 0 LEFT 8
+PINATTR PinName inp2
+PINATTR SpiceOrder 2
+PIN -112 32 LEFT 8
+PINATTR PinName S0
+PINATTR SpiceOrder 3
+PIN 112 -16 RIGHT 8
+PINATTR PinName mux_vout
+PINATTR SpiceOrder 4
